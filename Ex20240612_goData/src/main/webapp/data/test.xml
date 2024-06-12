@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<personal>
+		<name>홍길동</name>
+		<email>hong@korea.com</email>
+	</personal>
+	<personal>
+		<name>창조리</name>
+		<email>chang@korea.com</email>
+	</personal>
+	<totalCount>10</totalCount>
+</root>
